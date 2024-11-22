@@ -1,0 +1,30 @@
+head{
+    margin-top: 10%;
+    display: flex;
+    background:linear-gradient(rgb(0, 0, 0),blue);
+}
+
+.login{
+    display: flex;
+    justify-content: center;
+    background:linear-gradient(blue,black);
+
+}
+
+
+.pagina{
+    display: flex;
+    justify-content: center;
+    background:linear-gradient(rgb(0, 0, 0),blue);
+
+}
+
+.boton{
+   margin-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+.hola{
+    background:linear-gradient(rgb(0, 0, 0),blue);
+
+}

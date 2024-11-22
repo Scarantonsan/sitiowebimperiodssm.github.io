@@ -1,0 +1,86 @@
+*{
+    padding:0px;
+    
+    }
+    
+    header{
+        display: flex;
+        justify-content: space-between;
+        padding: 80px;
+         background-color: black;
+    }
+    
+    .logo{
+    width: 150px;
+    height: 50px;
+    
+    } 
+
+    .titulo{
+    
+        padding:  10px;
+       text-decoration-color: rgb(255, 255, 255);
+    }
+  
+    
+    
+    .principal{
+    display: flex;
+    justify-content: center;
+    
+    } 
+    
+    
+    
+
+
+    .principal{
+        width: 100%;
+        height: 400px;
+        background-color: rgb(201, 201, 201);
+
+        
+    }
+
+    .cliente{
+        display: flex;
+        justify-content: center;
+    }
+
+
+.empresaimperio{
+    background-color: rgb(194, 194, 194);
+    padding: 5%;
+    width: 500px;
+}
+
+.emprearcoiris{
+    background-color: rgb(205, 164, 248);
+    padding: 5%;
+    width: 500px;
+    
+}
+
+.tituloofertas{
+    display: flex;
+    justify-content: center;
+    background:linear-gradient(rgb(0, 0, 0),rgb(255, 255, 255));
+    height: 80px;
+    padding: 5%;
+}
+
+.carru{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(124, 124, 124);
+
+}
+
+.acor{
+    display: flex;
+    justify-content: end;
+}
+
+.noferta{
+    padding: 10%;
+}
